@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: space-between;" align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoAmichi&theme=dark" />
+  <img height=200 widht=400 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoAmichi&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoAmichi&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 widht=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoAmichi&theme=dark&layout=compact&langs_count=8&card_width=320&hide_progress=false" />
 </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoAmichi/LeoAmichi/output/github-contribution-grid-snake-dark.svg">
