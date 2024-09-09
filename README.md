@@ -11,3 +11,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeoAmichi/LeoAmichi/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+</div>
+<div align="center">
+ <div style="display: inline_block"><br>
+   <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+   <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img height="45em" img src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg />
+  
+
+          
+                 
+         
+          
+</div>
