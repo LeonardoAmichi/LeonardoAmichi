@@ -11,11 +11,12 @@
 </div>
 <div align="center">
  <div style="display: inline_block"><br>
+   <img height="47em" img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg />
+   <img height="45em" img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg />
+   <img height="45em" img src=https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
    <img height="45em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img height="45em" img src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg />
-  
 
           
                  
