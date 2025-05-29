@@ -6,7 +6,8 @@ Comecei meus estudos em programação em 2024 e sigo em constante evolução. Te
 
 - 🌍  Moro em Goiânia  
 - ✉️  Você pode me contatar em: [leoamichi1801@gmail.com](mailto:leoamichi1801@gmail.com)  
-- 🧠  Atualmente estou aprendendo **Java Spring Boot**  
+- 🧠  Atualmente estou aprendendo **Java Spring Boot**
+- 📚 Sempre aberto a aprender, evoluir e compartilhar conhecimento.
 
 ---
 
@@ -46,3 +47,7 @@ Comecei meus estudos em programação em 2024 e sigo em constante evolução. Te
 </a>
 </p>
 
+---
+
+## 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAmichi&layout=compact&theme=github_dark)
