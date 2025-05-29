@@ -4,7 +4,7 @@
 
 Comecei meus estudos em programação em 2024 e sigo em constante evolução. Tenho interesse especial em **Java** e estou explorando diferentes áreas da tecnologia para descobrir qual delas é minha verdadeira vocação.
 
-- 🌍  Moro em Goiânia  
+- 🌍  Moro em Goiânia - GO
 - ✉️  Você pode me contatar em: [leoamichi1801@gmail.com](mailto:leoamichi1801@gmail.com)  
 - 🧠  Atualmente estou aprendendo **Java Spring Boot**
 - 📚 Sempre aberto a aprender, evoluir e compartilhar conhecimento.
