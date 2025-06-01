@@ -51,10 +51,14 @@ Comecei meus estudos em programação em 2024 e sigo em constante evolução. Te
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github.com/leonardoamichi/leonardoamichi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoamichi&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoamichi&layout=compact&langs_count=7&theme=tokyonight"/>
+<!-- 🔥 Streak Stats -->
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardoamichi&theme=tokyonight&hide_border=true"/>
+
+<!-- 🏆 Linguagens mais usadas -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoamichi&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<!-- 🐍 Snake Animation -->
+<img src="https://github.com/leonardoamichi/leonardoamichi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
 </div>
