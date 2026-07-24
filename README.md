@@ -17,20 +17,6 @@ Atuo com foco em Engenharia de Software, com interesse no desenvolvimento de apl
 
 ---
 
-## 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-amichi-54a0b5302/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
-</p>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
