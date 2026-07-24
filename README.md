@@ -1,17 +1,15 @@
-# Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Leonardo Ferreira Amichi
+# Olá! 👋 Meu nome é Leonardo Ferreira Amichi
 
-## 🧠 Estudante de Ciência da Computação - UFG
+## 💻 Engenharia de Software | Back-end
 
-Comecei meus estudos em programação em 2024 e sigo em constante evolução. Tenho interesse especial em **Java** e estou explorando diferentes áreas da tecnologia para descobrir qual delas é minha verdadeira vocação.
+Atuo com foco em Engenharia de Software, com interesse no desenvolvimento de aplicações back-end, arquitetura de software, modelagem de bancos de dados e construção de APIs REST. Busco desenvolver soluções escaláveis, seguras e de fácil manutenção, aplicando boas práticas de desenvolvimento e princípios de qualidade de software.
 
-- 🌍 Moro em Goiânia - GO
-- ✉️ Você pode me contatar em: [leoamichi1801@gmail.com](mailto:leoamichi1801@gmail.com)  
-- 🧠 Atualmente estou aprendendo **Java Spring Boot**
-- 📚 Sempre aberto a aprender, evoluir e compartilhar conhecimento.
+- 🌍 Goiânia - GO, Brasil
+- ✉️ Contato: leonardo.f.amichi@gmail.com
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,c,git,html,css,eclipse,vscode,linux" alt="Minhas Habilidades" />
@@ -19,7 +17,7 @@ Comecei meus estudos em programação em 2024 e sigo em constante evolução. Te
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/leonardo-amichi-54a0b5302/" target="_blank">
